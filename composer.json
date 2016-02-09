@@ -1,8 +1,10 @@
 {
+  "name": "Glome/Sdk",
   "autoload": {
     "psr-4": { "Glome\\Sdk\\": "lib/" }
   },
   "require": {
+    "php": ">=5.4.0",
     "guzzlehttp/guzzle": "^6.0"
   }
 }
