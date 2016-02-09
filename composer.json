@@ -1,0 +1,8 @@
+{
+  "autoload": {
+    "psr-4": { "Glome\\Sdk\\": "lib/" }
+  },
+  "require": {
+    "guzzlehttp/guzzle": "^6.0"
+  }
+}
