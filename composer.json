@@ -1,5 +1,5 @@
 {
-  "name": "glome/sdk",
+  "name": "glome/glome-php-sdk",
   "autoload": {
     "psr-4": { "Glome\\Sdk\\": "lib/" }
   },
