@@ -1,5 +1,5 @@
 {
-  "name": "Glome/Sdk",
+  "name": "glome/sdk",
   "autoload": {
     "psr-4": { "Glome\\Sdk\\": "lib/" }
   },
