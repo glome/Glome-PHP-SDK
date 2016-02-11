@@ -3,8 +3,16 @@
   "autoload": {
     "psr-4": { "Glome\\Sdk\\": "lib/" }
   },
+  "authors": [
+    {
+      "name": "Ahti Ahde",
+      "email": "ahti.ahde@gmail.com",
+      "role": "Developer"
+    }
+  ],
   "require": {
     "php": ">=5.4.0",
     "guzzlehttp/guzzle": "^6.0"
-  }
+  },
+  "licence": "MIT"
 }
