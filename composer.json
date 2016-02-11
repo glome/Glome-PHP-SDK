@@ -14,5 +14,5 @@
     "php": ">=5.4.0",
     "guzzlehttp/guzzle": "^6.0"
   },
-  "licence": "MIT"
+  "license": "MIT"
 }
